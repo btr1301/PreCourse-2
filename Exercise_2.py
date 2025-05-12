@@ -1,7 +1,7 @@
 # Time Complexity 
 #    Avg - o(nlogn) and worst case is o(n^2)
 # Space Complexity
-#    Recursive call stack - o(nlogn)
+#    Recursive call stack - o(logn)
 
 
 def partition(arr, low, high):
